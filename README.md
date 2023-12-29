@@ -1,2 +1,2 @@
-"# Mouse-Follower-using-HTML-CSS-JavaScript" 
+"# Easy and simple Mouse-Follower-using-HTML-CSS-JavaScript" 
 
