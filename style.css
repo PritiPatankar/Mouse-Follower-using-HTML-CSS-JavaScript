@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    overflow: hidden;
+}
+
+#background{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+}
+
+#circle{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: #fff 1.5px solid;
+    transform: translate(-50%,-50%);
+}
