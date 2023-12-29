@@ -1,2 +1,2 @@
-"# Mouser-Follower-using-HTML-CSS-JavaScript" 
-"# Mouser-Follower-using-HTML-CSS-JavaScript" 
+"# Mouse-Follower-using-HTML-CSS-JavaScript" 
+
